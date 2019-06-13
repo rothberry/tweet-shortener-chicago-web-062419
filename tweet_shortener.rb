@@ -19,7 +19,8 @@ def dictionary
 end
 
 def word_substituter(tweet)
-  tweet.split(" ")
 binding.pry
+  tweet.split(" ")
+
 
 end
