@@ -24,4 +24,3 @@ binding.pry
 
 
 end
-s
