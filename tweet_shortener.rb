@@ -19,6 +19,7 @@ def dictionary
 end
 
 def word_substituter(tweet)
+  dictionary
 binding.pry
 
 end
