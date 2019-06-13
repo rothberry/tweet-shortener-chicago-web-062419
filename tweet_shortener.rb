@@ -1,4 +1,7 @@
 # Write your code here.
+tweet_test1 = "Hello, this is for you!"
+tweet_test2 = "Be yourself and see you at the party, too"
+
 def dictionary
   dictionary_hash{
     "hello" => "hi",
@@ -12,4 +15,9 @@ def dictionary
     "at" => "@",
     "and" => "&"
   }
+end
+
+def word_substituter(tweet)
+
+
 end
