@@ -1,4 +1,5 @@
 # Write your code here.
+require 'pry'
 tweet_test1 = "Hello, this is for you!"
 tweet_test2 = "Be yourself and see you at the party, too"
 
@@ -18,6 +19,6 @@ def dictionary
 end
 
 def word_substituter(tweet)
-
+binding.pry
 
 end
