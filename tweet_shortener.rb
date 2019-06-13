@@ -7,13 +7,17 @@
 # "at" becomes "@"
 # "and" becomes "&"
 def dictionary
+  
   dictionary_hash{
-    "hi" => "hello",
-    "2" => ["to", "two", "too"],
-    "4" => ["for", "four"],
-    "b" => "be",
+    "hello" => "hi",
+    "to" => "2",
+    "two" => "2",
+    "too" => "2",
+    "for" => "4",
+    "four" => "4",
+    "be" => "b",
     "at" => "@",
     "and" => "&"
   }
-
+  
 end
