@@ -19,7 +19,7 @@ def dictionary
 end
 
 def word_substituter(tweet)
-  dictionary
+  tweet.split(" ")
 binding.pry
 
 end
